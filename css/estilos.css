@@ -1,0 +1,54 @@
+#superior{
+	background-image: url(https://bnetcmsus-a.akamaihd.net/cms/gallery/XDHHC269SR3Z1522934541835.jpg);
+	background-size: cover;
+	height: 40%;
+	width: 100%;
+	padding-left: 10px;
+	padding-top: 30px;
+}
+
+label {
+	color: white;
+}
+
+#titulo{
+	font-family: serif;
+	color: white;
+	font-size: 400%;
+	font-variant: small-caps;
+}
+#intro{
+	padding-top: 30px;
+	font-family: serif;
+	color: white;
+	font-size: 150%;
+	font-variant: small-caps;
+}
+
+.titulo_cuerpo{
+	color: black;
+	font-family: serif;
+	font-weight: 900;
+	font-style: italic;
+	padding-left: 50px;
+	padding-top: 60px;
+	padding-right: 40px;
+	font-variant: small-caps;
+}
+.parrafo_cuerpo{
+	color: black;
+	font-family: serif;
+	font-weight: 600;
+	font-style: oblique;
+	padding-left: 20px;
+	font-variant: small-caps;
+	padding-bottom: 60px;
+	padding-right: : 40px;
+}
+#inferior{
+	background-image: url(https://bnetcmsus-a.akamaihd.net/cms/gallery/A28BB66118SP1539119178130.jpg);
+	background-size: cover;
+	height: 40%;
+	width: 100%;
+	color: white;
+}
